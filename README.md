@@ -7,7 +7,5 @@ The player has six chances to guess the word correctly, and after each guess, th
 
 Click the link for demo: https://drive.google.com/file/d/13Z33aZOnnnK2byq9-aHeVnUzOj0vhtB_/view?usp=sharing
 
-
-<img width="623" alt="Screen Shot 2023-03-29 at 10 28 21 AM" src="https://user-images.githubusercontent.com/71808318/228621558-b0f66e42-1e80-489c-ac17-0727c44ac17f.png">
-
+<img width="618" alt="Screen Shot 2023-03-30 at 10 00 39 AM" src="https://user-images.githubusercontent.com/71808318/228910927-3d75703b-429d-42a4-a701-373521b20ac1.png">
 
