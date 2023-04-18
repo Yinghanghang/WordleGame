@@ -1,5 +1,7 @@
 # WordleGame
 
+Tools: python, pygame
+
 The player has six chances to guess the word correctly, and after each guess, the game provides feedback:
   A correct letter and correct position of the letter will make it green; 
   A correct letter but wrong position will make it yellow; 
